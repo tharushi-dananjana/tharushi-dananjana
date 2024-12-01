@@ -75,7 +75,7 @@
 
 <h3 align="left">🚀 About Me:</h3>
 <p>
-  I'm Tharushi, My expertise spans across web and mobile development, with a keen interest in modern frameworks like Flutter and React Native. I'm always up for learning new technologies and love solving challenging problems. My goal is to create applications that make a difference.
+  I'm Tharushi a dedicated student at SLIIT with a passion for technology. I specialize in web and mobile development, focusing on innovative frameworks like Flutter and React Native. Eager to explore emerging technologies, I thrive on solving complex challenges and pushing my limits. My ultimate goal is to build impactful applications that enhance user experiences and bring positive change to the digital world.
 </p>
 
 ---
