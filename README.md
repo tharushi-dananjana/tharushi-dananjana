@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushi-dananjana&label=Profile%20views&color=0e75b6&style=flat" alt="tharushi-dananjana" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharushi-dananjana&label=Profile%20views&color=0e75b6&style=flat" alt="tharushi-dananjana" /> </p>
 </p>
 
 ---
