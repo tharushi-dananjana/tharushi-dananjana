@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=false&vCenter=true&random=false&width=435&lines=Welcome!+I'm+Tharushi+Dananjana;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Tharushi Dananjana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
