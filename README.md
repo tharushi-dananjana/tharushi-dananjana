@@ -116,6 +116,15 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="GitBash" width="40" height="40"/>
   </a>
+  <!-- RStudio -->
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/rstudio/rstudio-icon.svg" alt="RStudio" width="40" height="40"/>
+</a>
+<!-- Android Studio -->
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
+</a>
+
   
 </p>
 
