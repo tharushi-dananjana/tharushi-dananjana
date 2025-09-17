@@ -160,11 +160,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tharushi-danmanjana&theme=radical" alt="Repositories per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tharushi-dananjana&theme=radical" alt="Repositories per Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharushi-dananjana=radical" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharushi-dananjana&theme=radical" alt="Stats Card" />
 </p>
 
 <p align="center">
