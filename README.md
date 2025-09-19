@@ -8,9 +8,9 @@
 </p>
 
 
-- 🌱 I’m currently learning **Java,php,html**
+- 🌱 I’m currently learning **Ayu Mantra**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **tharushidananjana@gmail.com**
 
